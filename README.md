@@ -52,7 +52,7 @@
  
   <h1>Deployment Tutorial Videos</h1>
   <a href="https://www.youtube.com/watch?v=9reuWeu-S8A"><img src="https://img.shields.io/badge/CodeSpace Tutorial-red" alt="CodeSpace Tutorial" width="250"></a><br>
-  <a href="https://www.youtube.com/watch?v=335WCN678hA"><img src="https://img.shields.io/badge/Replit Tutorial-red" alt="Replit Tutorial" width="250"></a><br>
+  <a href="https://www.youtube.com/watch?v=335WCN678hA"><img src="https://img.shields.io/badge/Replit Tutorial-red" alt="Replit Tutorial" width="220"></a><br>
   <h3>More Methods Will Uploaded Soon Stay Tuned.</h3>
 <br>
 </div>
