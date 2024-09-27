@@ -26,31 +26,38 @@
 
 ## ✔ STEP 00 -  Pre Requirements (Click On The Buttton For Tutorial)
 
-<a href="https://i.ytimg.com/an_webp/XhIx3UqIME4/mqdefault_6s.webp?du=3000&sqp=CMKp2rcG&rs=AOn4CLDry4dy_bkGz8ltokH49vKme9qKRA"><img src="https://img.shields.io/badge/GITHUB ACCOUNT-red" alt="Github Account Create Tutorial" width="200"></a>
+<a href="https://i.ytimg.com/an_webp/XhIx3UqIME4/mqdefault_6s.webp?du=3000&sqp=CMKp2rcG&rs=AOn4CLDry4dy_bkGz8ltokH49vKme9qKRA"><img src="https://img.shields.io/badge/GITHUB ACCOUNT-red" alt="Github Account Create Tutorial" width="180"></a>
 
-<a href="https://www.youtube.com/watch?v=F2nz0Lqsp4M"><img src="https://img.shields.io/badge/MONGODB URL-red" alt="MongoDb Url" width="200"></a>
+<a href="https://www.youtube.com/watch?v=F2nz0Lqsp4M"><img src="https://img.shields.io/badge/MONGODB URL-red" alt="MongoDb Url" width="180"></a>
 
 ## ✔ STEP 01 -  Fork The Repo
 
-<a href="https://github.com/uwtechshow-official/Queen-Spriky-MD-News-Bot/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK REPO" width="140"></a>
+<a href="https://github.com/uwtechshow-official/Queen-Spriky-MD-News-Bot/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK REPO" width="130"></a>
 
 ## ✔ STEP 02 -  Get Session ID
 
-<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/Get Session ID-blue" alt="GET SESSION" width="190"></a>
+<a href="https://pair-web-public.koyeb.app/"><img src="https://img.shields.io/badge/Get Session ID-blue" alt="GET SESSION" width="170"></a>
 
 
 
 ## ✔ STEP 03 -  Deployment Methods
 
-<a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY PLATFORMS" width="180"></a>
+<a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY PLATFORMS" width="150"></a>
 <br>
 
 
 <div align="center">
  
   <h1>Deployment Tutorial Videos</h1>
-  <a href="https://www.youtube.com/watch?v=9reuWeu-S8A"><img src="https://img.shields.io/badge/Code Space Tutorial-red" alt="Code Space Tutorial" width="300"></a><br>
+  <a href="https://www.youtube.com/watch?v=9reuWeu-S8A"><img src="https://img.shields.io/badge/Code Space Tutorial-red" alt="Code Space Tutorial" width="250"></a><br>
   <h3>More Methods Will Uploaded Soon Stay Tuned.</h3>
+<br>
+</div>
+
+<div align="center">
+ 
+  <h1>For Support</h1>
+  <a href="https://chat.whatsapp.com/KQZ2CxCLL5D268bh6bmBMg"><img src="https://img.shields.io/badge/WhatsApp Group-greed" alt="Code Space Tutorial" width="250"></a><br>
 <br>
 </div>
 
