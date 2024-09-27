@@ -46,7 +46,7 @@
 <br>
 <a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-green" alt="DEPLOY REPLIT" width="80"></a>
 <br>
-<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-green" alt="DEPLOY VERCEL" width="50"></a>
+<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-green" alt="DEPLOY VERCEL" width="80"></a>
 <br>
 
 <div align="center">
