@@ -44,7 +44,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/Code Space-green" alt="DEPLOY CODESPACE" width="150"></a>
 <br>
-<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-green" alt="DEPLOY REPLIT" width="100"></a>
+<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-green" alt="DEPLOY REPLIT" width="80"></a>
 <br>
 
 
